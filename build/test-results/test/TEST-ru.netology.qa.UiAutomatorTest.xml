@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.qa.UiAutomatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-19T11:13:14" hostname="MARINA" time="34.974">
+  <properties/>
+  <testcase name="EmptyInput()" classname="ru.netology.qa.UiAutomatorTest" time="34.974"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[сент. 19, 2024 2:13:40 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
